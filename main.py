@@ -33,7 +33,7 @@ form = """
                 <input name="rot" type="text" value='0'/>
             </label>
             <textarea name="text">{0}</textarea>
-            <input type="submit" value="ENCRYPT YOUR MESSAGE" />
+            <input type="submit" value="ENCRYPT YOUR SUPER TOP SECRET MESSAGE" />
         
         </form>
     </body>
