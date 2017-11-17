@@ -40,6 +40,7 @@ form = """
 </html>
 """
 
+
 @app.route("/", methods=['POST'])
 def encrypt():
     rot_by = request.form['rot']
